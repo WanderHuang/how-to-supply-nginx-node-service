@@ -1,0 +1,17 @@
+{
+  "name": "how-to-supply-nginx-node-service",
+  "version": "1.0.0",
+  "description": "测试网络服务。https、http2、ws、wss",
+  "main": "index.js",
+  "keywords": [
+    "https",
+    "wss",
+    "http",
+    "ws"
+  ],
+  "author": "wander",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^7.4.0"
+  }
+}

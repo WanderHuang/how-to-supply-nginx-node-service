@@ -1,0 +1,4 @@
+.tern-project
+private.*
+package-lock.json
+node_modules
